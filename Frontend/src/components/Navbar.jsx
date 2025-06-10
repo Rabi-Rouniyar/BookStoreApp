@@ -2,6 +2,7 @@ import React from 'react';
 import { useState } from 'react';
 import { useEffect } from 'react';
 import Login from './Login';
+import Logout from "./Logout";
 
 function Navbar() {
 
